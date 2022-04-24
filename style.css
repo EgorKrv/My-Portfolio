@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+}
+
+main p { 
+    background-color:rgba(0, 0, 0, 0.109);
+    color: blue;
+    width: 380px;
+}
